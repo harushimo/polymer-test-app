@@ -1,0 +1,22 @@
+{
+  "name": "polymer",
+  "authors": [
+    "harushimo <hvedam@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.3.0",
+    "google-map": "GoogleWebComponents/google-map#^1.1.10"
+  }
+}
